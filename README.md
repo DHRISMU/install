@@ -5,7 +5,7 @@ Session | Software Installation Instructions
 [Command Line](https://github.com/DHRISMU/command-line) | [VScode](sections/vscode.md), [git](sections/git.md) | 
 [Git and Github](https://github.com/DHRISMU/git) | [VScode](sections/vscode.md), [git](sections/git.md) |
 [R](https://github.com/DHRISMU/r) | [VScode](sections/vscode.md), [Rstudio desktop](sections/rstudio.md) | 
-[ESRI storymaps](https://github.com/DHRISMU/geospatialdatas)  |
+[Geospatial Data](https://github.com/DHRISMU/geospatialdatas)  | [Storymaps](sections/storymaps.md)
 
 
  
