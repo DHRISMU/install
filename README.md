@@ -2,49 +2,12 @@ Check the links below for the content of courses and the installation instructio
 
 Session | Software Installation Instructions
 --------| ---------
-[Command Line](https://github.com/DHRI-Curriculum/command-line) | [VScode](sections/vscode.md), [git](sections/git.md) | 
-[Git and Github](https://github.com/DHRI-Curriculum/git) | [VScode](sections/vscode.md), [git](sections/git.md) |
-[Python](https://github.com/DHRI-Curriculum/python) | [VScode](sections/vscode.md), [Python](sections/python.md) | 
-[Databases](https://github.com/DHRI-Curriculum/databases) | [Python](sections/python.md), [Pandas](sections/pandas.md) |
-[Text-Analysis](https://github.com/DHRI-Curriculum/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md) |
-[Mapping](https://github.com/DHRI-Curriculum/mapping) | [QGIS](sections/qgis.md) |
-[Machine Learning](https://github.com/DHRI-Curriculum/machine-learning)| [Python](sections/python.md), [Pandas](sections/pandas.md), [NLTK](sections/nltk.md), [Sklearn](sections/sklearn.md)|
-[HTML/CSS](https://github.com/DHRI-Curriculum/html-css) | [VScode](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
-[Digital Ethics](https://github.com/DHRI-Curriculum/digital-ethics) |
-[Omeka](https://github.com/GCDigitalFellows/omeka/) | [Omeka](https://github.com/GCDigitalFellows/omeka/blob/master/omekainstall.md) |
-<!-- [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) |-->
+[Command Line](https://github.com/DHRISMU/command-line) | [VScode](sections/vscode.md), [git](sections/git.md) | 
+[Git and Github](https://github.com/DHRISMU/git) | [VScode](sections/vscode.md), [git](sections/git.md) |
+[R](https://github.com/DHRISMU/r) | [VScode](sections/vscode.md), [Rstudio desktop](sections/rstudio.md) | 
+[ESRI storymaps](https://github.com/DHRISMU/geospatialdatas)  |
 
 
-Extra Guides: 
-* How to install Python libraries with [Conda](sections/conda.md)
-* How to use [Jupyter Notebook](sections/jupyter.md)
-
-<!-- # Installation
-
-The following guides will help you install all the software that you will need to follow the DHRI sessions in this curriculum.
-
-### Software Installations
-
-[Firefox](https://www.mozilla.org/en-US/firefox/)  
-[git](sections/git.md)  
-[QGIS](sections/qgis.md)  
-[Visual Studio Code](sections/vscode.md)  
-
-### Python Packages
-
-[Natural Language Tool Kit (NLTK)](sections/nltk.md)  
-[Pandas](sections/pandas.md)  
-[Scikit-Learn](sections/sklearn.md)  
-[Tweepy](sections/tweepy.md)  
-
-### Guides
-
-[Conda Package Management](sections/conda.md)  
-[Jupyter Notebook](sections/jupyter.md)  
-
------
-
-Session Leader: Hannah Aizenman -->
  
 All install guides above are based on work by: Hannah Aizenman, Michelle McSweeney, Rachel Rakov, Rafael Davis Portela, and Stefano Morello.
 
