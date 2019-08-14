@@ -2,7 +2,7 @@ Check the links below for the content of courses and the installation instructio
 
 Session | Software Installation Instructions
 --------| ---------
-[Slack](https://github.com/DHRISMU/intro/blob/master/sections/Slack.md)|
+[Slack](https://github.com/DHRISMU/intro/blob/master/sections/Slack.md)|Slack](https://github.com/DHRISMU/intro/blob/master/sections/Slack.md)|
 [Command Line](https://github.com/DHRISMU/command-line) | [VScode](sections/vscode.md), [git](sections/git.md) | 
 [Git and Github](https://github.com/DHRISMU/git) | [VScode](sections/vscode.md), [git](sections/git.md) |
 [R](https://github.com/DHRISMU/r) | [VScode](sections/vscode.md), [Rstudio desktop](sections/rstudio.md) | 
