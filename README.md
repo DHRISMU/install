@@ -5,7 +5,7 @@ Session | Software Installation Instructions
 [Slack](https://github.com/DHRISMU/intro/blob/master/sections/Slack.md)|[Slack](https://github.com/DHRISMU/intro/blob/master/sections/Slack.md)|
 [Command Line](https://github.com/DHRISMU/command-line) | [VScode](sections/vscode.md), [git](sections/git.md) | 
 [Git and Github](https://github.com/DHRISMU/git) | [VScode](sections/vscode.md), [git](sections/git.md) |
-[R](https://github.com/DHRISMU/r) | [R](https://www.r-project.org/), [RStudio Desktop](https://www.rstudio.com/) | 
+[R](https://github.com/DHRISMU/r) | [R](https://www.r-project.org/), [RStudio Desktop](https://www.rstudio.com/) (these are direct links to the products) | 
 [Geospatial Data](https://github.com/DHRISMU/geospatialdata)  | [Storymaps](sections/storymaps.md)
 
 
